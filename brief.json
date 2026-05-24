@@ -1,62 +1,62 @@
 {
-    "date": "2026-05-23",
-    "title": "Pastor's Morning Brief",
-    "stories": [
-        {
-            "category": "Global news",
-            "headline": "At least 90 killed in China coal mine explosion",
-            "summary": "BBC's world feed reports that a blast at a coal mine in Shanxi province has killed at least 90 people, making it China's worst mining disaster in 16 years. The story sits alongside other global volatility today, including renewed Russia-Ukraine escalation and Ebola concerns in DR Congo.",
-            "pastoral_note": "Pray for grieving families and exhausted rescue workers. This is a sober reminder that ordinary labour can carry hidden risk, and that the church's intercession should include workers whose suffering rarely makes headlines until tragedy strikes.",
-            "url": "https://www.bbc.com/news/world"
-        },
-        {
-            "category": "Persecution",
-            "headline": "Open Doors says Christian persecution has reached a record 388 million people",
-            "summary": "Open Doors' 2026 World Watch List reports that 388 million Christians face high levels of persecution or discrimination, up 8 million from the previous year. Vatican News highlighted particular concern for women, minors, and sub-Saharan Africa, with Nigeria again described as the epicenter of lethal anti-Christian violence.",
-            "pastoral_note": "This is a call to keep the persecuted church near the center of congregational prayer, not at the margins. Hebrews 13:3 gives us the posture: remember those in prison as though in prison with them.",
-            "url": "https://www.vaticannews.va/en/church/news/2026-01/open-doors-world-watch-list-2026-report-christians-persecuted.html"
-        },
-        {
-            "category": "Cultural shifts",
-            "headline": "Gen Z shows more spiritual interest but little biblical foundation",
-            "summary": "Arizona Christian University's Cultural Research Center says Gen Z adults are moving in mixed spiritual directions: more identify as Christian, report church attendance, and read the Bible, yet only 1% hold a consistently biblical worldview. The report notes gains in spiritual activity alongside confusion about moral absolutes, sexuality, economics, horoscopes, and even whether Jesus sinned.",
-            "pastoral_note": "This feels like an open door for patient discipleship rather than triumphalism. Interest is not formation; churches need to offer young adults not just vibes of faith, but the beauty, coherence, and authority of the gospel.",
-            "url": "https://azcu.edu/culturalresearchcenter/2026/04/30/genz_and_faith_more_interest_less_foundation/"
-        },
-        {
-            "category": "Faith & Ethics",
-            "headline": "Tech companies seek faith leaders' guidance on AI ethics",
-            "summary": "AP reports that representatives from companies including Anthropic and OpenAI met with religious leaders at the inaugural Faith-AI Covenant roundtable in New York. Organizers hope to develop norms or principles for AI shaped by moral and religious wisdom, even as questions remain about whether regulation and corporate self-restraint can keep pace.",
-            "pastoral_note": "The church should not outsource moral imagination to technologists. This is a moment for pastors to speak clearly about human dignity, limits, conscience, truth, and the irreplaceable work of the Holy Spirit in wisdom and discernment.",
-            "url": "https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea"
-        },
-        {
-            "category": "Leadership (HBR)",
-            "headline": "HBR asks whether leaders should treat AI like a teammate",
-            "summary": "Harvard Business Review's May 12 Insider piece, 'Should You Treat AI Like a Teammate?', curates current leadership thinking around AI agents as coworkers, touching leadership, motivation, automation, management, and generative AI. The framing signals how quickly AI is shifting from tool to perceived collaborator inside organizations.",
-            "pastoral_note": "For church leaders, the key question is not just efficiency but formation: what tasks can be delegated without dulling spiritual attentiveness, relational presence, or pastoral responsibility? AI may assist teams, but it must never replace shepherds.",
-            "url": "https://hbr.org/2026/05/should-you-treat-ai-like-a-teammate"
-        },
-        {
-            "category": "Real Estate (Fraser Valley/Vancouver)",
-            "headline": "Fraser Valley market shows signs of stabilization while inventory remains elevated",
-            "summary": "The Fraser Valley Real Estate Board's April 2026 report says benchmark prices edged upward for the second consecutive month, sales rose both month-over-month and year-over-year, and sellers continued to add inventory. The board describes conditions as active but balanced, with buyers benefiting from strong selection and measured competition.",
-            "pastoral_note": "Housing pressure is never just economic; it shapes anxiety, family planning, generosity, and rootedness. This is worth watching pastorally for congregants making major decisions, especially younger families and renters hoping to enter the market.",
-            "url": "https://www.fvreb.bc.ca/statistics/monthly-market-report/"
-        },
-        {
-            "category": "Encouragement",
-            "headline": "Malaria vaccine linked to significant reduction in child deaths",
-            "summary": "Positive News summarizes new Lancet-published research showing that Ghana, Kenya, and Malawi saw a significant reduction in child deaths after introducing RTS,S malaria vaccinations. The study observed that roughly one in eight child deaths had been avoided in those countries since rollout, and 25 African countries now offer malaria vaccines to children.",
-            "pastoral_note": "This is mercy in measurable form. Give thanks for scientists, public-health workers, funders, and local clinics whose quiet faithfulness means children live and families remain whole.",
-            "url": "https://www.positive.news/society/good-news-stories-from-week-20-of-2026/"
-        },
-        {
-            "category": "Theology in the Wild (evangelistic edge)",
-            "headline": "Religion-watchers see decline and revival narratives colliding in 2026",
-            "summary": "USC's Center for Religion and Civic Culture notes that the old 'rise of the nones' narrative is now colliding with fresh claims of spiritual revival, institutional distrust, supernatural curiosity, and pockets of renewed affiliation. ReligionUnplugged likewise observes that formal affiliation may be under pressure while spiritual belief remains widespread.",
-            "pastoral_note": "The evangelistic edge is this: many people are not closed to transcendence; they are suspicious of institutions and hungry for meaning. A church that offers humble presence, biblical clarity, and real encounter with Christ can meet that hunger without chasing hype.",
-            "url": "https://dornsife.usc.edu/crcc/6-to-7-trends-to-watch-in-religion-and-society-in-2026/"
-        }
-    ]
+  "date": "2026-05-24",
+  "title": "Pastor's Morning Brief",
+  "stories": [
+    {
+      "category": "Global news",
+      "headline": "Russia launches large-scale attack on Ukraine as global tensions remain high",
+      "summary": "BBC reported a large overnight Russian attack on Ukraine, with deaths and dozens injured, including confirmation that Russia used its Oreshnik hypersonic missile. Al Jazeera and the New York Times also reported that U.S.-Iran talks may be moving toward a deal that could reopen the Strait of Hormuz, a pressure point for global trade.",
+      "pastoral_note": "A Sunday congregation does not need speculation; it needs intercession. Pray for civilians under fire, leaders negotiating under pressure, and the church to remain a witness of peace without becoming naive about evil.",
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o"
+    },
+    {
+      "category": "Persecution",
+      "headline": "ICC reports fresh arrests in China and deadly attacks against Christians in Congo",
+      "summary": "International Christian Concern's latest reports include six Christians arrested in China and at least 17 Christians killed in an ADF attack in Ituri Province, Democratic Republic of Congo. Other recent stories include Ugandan converts freed after nearly two years in prison and ongoing trauma among Peshawar church bombing survivors.",
+      "pastoral_note": "Hebrews 13:3 belongs in the church's bloodstream: remember prisoners and the mistreated as though with them. This is not guilt-driven activism; it is family memory in the body of Christ.",
+      "url": "https://persecution.org/news/"
+    },
+    {
+      "category": "Cultural shifts",
+      "headline": "Pew: Americans see religion's public influence changing, and the debate is sharpening",
+      "summary": "Pew Research reported that 61% of U.S. adults say religion is losing influence in American life, while 37% say it is gaining influence. The same research points to strong partisan divides over whether religious influence in government and public life is good or bad.",
+      "pastoral_note": "This is a discipleship moment: Christians must learn the difference between faithful public witness and grasping for cultural control. The church's credibility will depend on cruciform courage, not nostalgia.",
+      "url": "https://www.pewresearch.org/religion/2026/05/14/how-americans-feel-about-religions-influence-in-government-and-public-life/"
+    },
+    {
+      "category": "Faith & Ethics",
+      "headline": "Christianity Today: Supreme Court keeps abortion pills available nationwide for now",
+      "summary": "Christianity Today analyzed the Supreme Court's decision allowing online and phone prescriptions of abortion pills such as mifepristone to continue nationwide until at least next year. CT framed the ruling as a significant setback for pro-life advocates and a sign that the legal debate is far from settled.",
+      "pastoral_note": "This needs moral clarity without a thin culture-war tone. Preach the dignity of unborn life, the mercy of Christ for wounded consciences, and the church's responsibility to become a real refuge for mothers, fathers, and children.",
+      "url": "https://www.christianitytoday.com/2026/05/supreme-court-keeps-abortion-pills-available-nationwide-mifepristone-analysis/"
+    },
+    {
+      "category": "Leadership (HBR)",
+      "headline": "HBR asks whether leaders should treat AI agents like teammates",
+      "summary": "Harvard Business Review's leadership page highlighted a May 2026 piece asking, 'Should You Treat AI Like a Teammate?' The framing reflects a broader management shift: leaders are no longer only adopting tools, but deciding how human teams should relate to increasingly agentic systems.",
+      "pastoral_note": "Church leaders should neither baptize every technology nor fear every tool. The wiser question is formation: what does this practice do to attention, agency, relationships, truthfulness, and the image-bearing dignity of people?",
+      "url": "https://hbr.org/2026/05/should-you-treat-ai-like-a-teammate"
+    },
+    {
+      "category": "Real Estate (Fraser Valley/Vancouver)",
+      "headline": "Fraser Valley housing shows renewed spring activity while buyers keep leverage",
+      "summary": "Fraser Valley Today reported that April home sales reached 1,118, up 11% from March and 7% year over year, the first annual increase in more than 12 months. New listings rose to 3,549, and FVREB leaders said conditions remain in buyers' favour despite renewed activity.",
+      "pastoral_note": "Housing pressure is a pastoral issue in the Lower Mainland. Behind every market stat are young families, renters, seniors, newcomers, and church members wondering whether they can stay rooted in community.",
+      "url": "https://fraservalleytoday.ca/2026/05/07/rising-sales-and-price-gains-signal-stability-in-fraser-valley-housing-market-fvreb/"
+    },
+    {
+      "category": "Encouragement",
+      "headline": "Pentecost reminder: the Spirit still gives life and courage to the church",
+      "summary": "Vatican News reported Pope Leo XIV's Pentecost homily emphasizing that the Paraclete enlightens minds, gives new vitality to hearts, and opens history toward salvation. Even across Protestant-Catholic differences, the note of Pentecost lands as a timely call to expect the Spirit's renewing work.",
+      "pastoral_note": "For a weary pastor on a Sunday morning: the church is not carried by strategy alone. Pentecost says the risen Jesus still breathes life into ordinary people and sends them with holy courage.",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-on-solemnity-pentecost-mass-homily-24-may-2026.html"
+    },
+    {
+      "category": "Theology in the Wild (evangelistic edge)",
+      "headline": "TGC frames 'porch culture' as a missionary posture for a post-Christian world",
+      "summary": "The Gospel Coalition featured a podcast on 'Porch Culture in a Post-Christian World,' drawing on Abraham Kuyper's idea of building public 'forecourts' where Christians can have missionary encounters with Western culture. The theme names a hunger for spaces that are hospitable, thoughtful, and evangelistically alive.",
+      "pastoral_note": "This is a useful picture for Southgate: evangelism may begin less like a megaphone and more like a porch — a visible, welcoming threshold where neighbours can encounter truth, beauty, hospitality, and eventually Jesus the King.",
+      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/porch-culture-post-christian-world/"
+    }
+  ]
 }
