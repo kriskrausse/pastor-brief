@@ -1,62 +1,62 @@
 {
-  "date": "2026-05-24",
+  "date": "2026-05-25",
   "title": "Pastor's Morning Brief",
   "stories": [
     {
       "category": "Global news",
-      "headline": "Russia launches large-scale attack on Ukraine as global tensions remain high",
-      "summary": "BBC reported a large overnight Russian attack on Ukraine, with deaths and dozens injured, including confirmation that Russia used its Oreshnik hypersonic missile. Al Jazeera and the New York Times also reported that U.S.-Iran talks may be moving toward a deal that could reopen the Strait of Hormuz, a pressure point for global trade.",
-      "pastoral_note": "A Sunday congregation does not need speculation; it needs intercession. Pray for civilians under fire, leaders negotiating under pressure, and the church to remain a witness of peace without becoming naive about evil.",
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o"
+      "headline": "Iran says a U.S. nuclear deal is not imminent despite signs of progress",
+      "summary": "BBC and Al Jazeera both led with Iran downplaying expectations of an immediate agreement with the United States, even as oil prices moved on hopes that a deal could ease pressure around the Strait of Hormuz. The story sits inside a wider week of conflict stress: Ukraine absorbed another large Russian attack, Pakistan reported a deadly train bombing, and Lebanon saw fresh strikes.",
+      "pastoral_note": "Pray for peacemakers who can resist performative diplomacy and pursue real restraint. For the church, this is a reminder that world events often move markets before they move hearts; our call is to intercede for people, not merely track volatility.",
+      "url": "https://www.bbc.com/news/world"
     },
     {
       "category": "Persecution",
-      "headline": "ICC reports fresh arrests in China and deadly attacks against Christians in Congo",
-      "summary": "International Christian Concern's latest reports include six Christians arrested in China and at least 17 Christians killed in an ADF attack in Ituri Province, Democratic Republic of Congo. Other recent stories include Ugandan converts freed after nearly two years in prison and ongoing trauma among Peshawar church bombing survivors.",
-      "pastoral_note": "Hebrews 13:3 belongs in the church's bloodstream: remember prisoners and the mistreated as though with them. This is not guilt-driven activism; it is family memory in the body of Christ.",
-      "url": "https://persecution.org/news/"
+      "headline": "Open Doors reports more than 388 million Christians face high levels of persecution",
+      "summary": "Open Doors' 2026 World Watch List says more than 388 million Christians suffer high levels of persecution and discrimination, with 315 million-plus in the top 50 countries facing very high or extreme persecution. The report highlights 4,849 Christians murdered, 4,712 detained, and 3,632 churches or Christian properties attacked in the reporting period.",
+      "pastoral_note": "This is a sober prompt to recover the New Testament instinct that persecuted believers are family, not distant headlines. Consider naming one nation in prayer this week and letting the congregation carry it before the Lord.",
+      "url": "https://www.opendoorsus.org/en-US/persecution/countries/"
     },
     {
       "category": "Cultural shifts",
-      "headline": "Pew: Americans see religion's public influence changing, and the debate is sharpening",
-      "summary": "Pew Research reported that 61% of U.S. adults say religion is losing influence in American life, while 37% say it is gaining influence. The same research points to strong partisan divides over whether religious influence in government and public life is good or bad.",
-      "pastoral_note": "This is a discipleship moment: Christians must learn the difference between faithful public witness and grasping for cultural control. The church's credibility will depend on cruciform courage, not nostalgia.",
-      "url": "https://www.pewresearch.org/religion/2026/05/14/how-americans-feel-about-religions-influence-in-government-and-public-life/"
+      "headline": "Gen Z religion data keeps complicating the 'revival or decline' narrative",
+      "summary": "Recent polling and reporting point to a mixed picture among Gen Z: high levels of religious disaffiliation overall, but notable renewed interest in religion among young men and growing public curiosity about faith. The trend is not a simple return to church, but it does suggest spiritual hunger is no longer easily dismissed as fringe.",
+      "pastoral_note": "The pastoral opportunity is not to overclaim revival, but to be ready for honest seekers. Churches that offer both spiritual encounter and thick discipleship may be better prepared than churches that only offer hot takes on the trend.",
+      "url": "https://www.axios.com/2026/04/16/gen-z-religion-poll-gallup"
     },
     {
       "category": "Faith & Ethics",
-      "headline": "Christianity Today: Supreme Court keeps abortion pills available nationwide for now",
-      "summary": "Christianity Today analyzed the Supreme Court's decision allowing online and phone prescriptions of abortion pills such as mifepristone to continue nationwide until at least next year. CT framed the ruling as a significant setback for pro-life advocates and a sign that the legal debate is far from settled.",
-      "pastoral_note": "This needs moral clarity without a thin culture-war tone. Preach the dignity of unborn life, the mercy of Christ for wounded consciences, and the church's responsibility to become a real refuge for mothers, fathers, and children.",
-      "url": "https://www.christianitytoday.com/2026/05/supreme-court-keeps-abortion-pills-available-nationwide-mifepristone-analysis/"
+      "headline": "AI ethics concern rises as public institutions ask what happens when machines learn to deceive",
+      "summary": "UN News' current editor picks include the question, 'What happens when AI learns to lie?' alongside global crises in health, war, and housing. The placement is telling: AI ethics is no longer a niche technology issue but a public-trust, truth, and human-formation issue.",
+      "pastoral_note": "This gives pastors a doorway to teach truthfulness as more than personal morality. In an age of synthetic persuasion, discipleship must form people who love truth, test spirits, and refuse convenient falsehoods.",
+      "url": "https://news.un.org/en/"
     },
     {
       "category": "Leadership (HBR)",
-      "headline": "HBR asks whether leaders should treat AI agents like teammates",
-      "summary": "Harvard Business Review's leadership page highlighted a May 2026 piece asking, 'Should You Treat AI Like a Teammate?' The framing reflects a broader management shift: leaders are no longer only adopting tools, but deciding how human teams should relate to increasingly agentic systems.",
-      "pastoral_note": "Church leaders should neither baptize every technology nor fear every tool. The wiser question is formation: what does this practice do to attention, agency, relationships, truthfulness, and the image-bearing dignity of people?",
+      "headline": "HBR asks whether leaders should treat AI like a teammate",
+      "summary": "Harvard Business Review's May 12 piece, 'Should You Treat AI Like a Teammate?', frames AI agents as a leadership and management question, not merely a productivity tool. The article connects generative AI with automation, motivation, managing oneself, and leadership practice.",
+      "pastoral_note": "For church leaders, the category error to avoid is treating tools like souls or souls like tools. AI can assist administration and research, but shepherding still requires presence, discernment, prayer, and accountable love.",
       "url": "https://hbr.org/2026/05/should-you-treat-ai-like-a-teammate"
     },
     {
       "category": "Real Estate (Fraser Valley/Vancouver)",
-      "headline": "Fraser Valley housing shows renewed spring activity while buyers keep leverage",
-      "summary": "Fraser Valley Today reported that April home sales reached 1,118, up 11% from March and 7% year over year, the first annual increase in more than 12 months. New listings rose to 3,549, and FVREB leaders said conditions remain in buyers' favour despite renewed activity.",
-      "pastoral_note": "Housing pressure is a pastoral issue in the Lower Mainland. Behind every market stat are young families, renters, seniors, newcomers, and church members wondering whether they can stay rooted in community.",
-      "url": "https://fraservalleytoday.ca/2026/05/07/rising-sales-and-price-gains-signal-stability-in-fraser-valley-housing-market-fvreb/"
+      "headline": "Fraser Valley market shows stabilization while buyers retain strong selection",
+      "summary": "The Fraser Valley Real Estate Board's April 2026 report says benchmark prices rose for a second consecutive month, sales improved month-over-month and year-over-year, and inventory remained elevated. The board characterized the market as active but balanced, with favourable conditions for buyers and measured competition.",
+      "pastoral_note": "Housing remains one of the Fraser Valley's most immediate pastoral pressures. Stabilization may help some households, but affordability anxiety is still spiritual weather in the room; preach and pastor with renters, first-time buyers, and stretched families in mind.",
+      "url": "https://www.fvreb.bc.ca/statistics/monthly-market-report/"
     },
     {
       "category": "Encouragement",
-      "headline": "Pentecost reminder: the Spirit still gives life and courage to the church",
-      "summary": "Vatican News reported Pope Leo XIV's Pentecost homily emphasizing that the Paraclete enlightens minds, gives new vitality to hearts, and opens history toward salvation. Even across Protestant-Catholic differences, the note of Pentecost lands as a timely call to expect the Spirit's renewing work.",
-      "pastoral_note": "For a weary pastor on a Sunday morning: the church is not carried by strategy alone. Pentecost says the risen Jesus still breathes life into ordinary people and sends them with holy courage.",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-on-solemnity-pentecost-mass-homily-24-may-2026.html"
+      "headline": "Bible Gateway continues curating Bible-related news and resources for ordinary readers",
+      "summary": "Bible Gateway's May 2026 Bible News Roundup gathers archaeology, academic research, cultural conversation, global church developments, and Bible-adjacent stories, while reminding readers that news about Scripture should lead back to actually reading Scripture.",
+      "pastoral_note": "A simple encouragement for Monday: curiosity can become devotion. Invite people not merely to consume faith-adjacent content, but to open the text and meet the living God there.",
+      "url": "https://www.biblegateway.com/learn/news/may-2026-bible-news/"
     },
     {
       "category": "Theology in the Wild (evangelistic edge)",
-      "headline": "TGC frames 'porch culture' as a missionary posture for a post-Christian world",
-      "summary": "The Gospel Coalition featured a podcast on 'Porch Culture in a Post-Christian World,' drawing on Abraham Kuyper's idea of building public 'forecourts' where Christians can have missionary encounters with Western culture. The theme names a hunger for spaces that are hospitable, thoughtful, and evangelistically alive.",
-      "pastoral_note": "This is a useful picture for Southgate: evangelism may begin less like a megaphone and more like a porch — a visible, welcoming threshold where neighbours can encounter truth, beauty, hospitality, and eventually Jesus the King.",
-      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/porch-culture-post-christian-world/"
+      "headline": "UK missiologist says 2026 may be the most spiritually open year in living memory",
+      "summary": "Christian Daily reports Phil Knox of the U.K. Evangelical Alliance arguing that markers from 2025 point to increased spiritual openness, more people exploring Jesus, more baptisms, deeper Bible engagement, and renewed gospel opportunities. He also warns that seekers may turn toward Christianity, other religions, paganism, or occult spirituality.",
+      "pastoral_note": "This is an evangelistic edge worth noticing: people may be more open, but not necessarily more grounded. The church's invitation should be clear, Christ-centered, Spirit-filled, and unembarrassed about calling seekers from vague spirituality to allegiance to Jesus.",
+      "url": "https://www.christiandaily.com/news/2026-will-be-the-most-spiritually-open-year-in-living-memory-says-uk-missiologist"
     }
   ]
 }
