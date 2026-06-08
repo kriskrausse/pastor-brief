@@ -1,62 +1,62 @@
 {
-  "date": "2026-06-07",
+  "date": "2026-06-08",
   "title": "Pastor's Morning Brief",
   "stories": [
     {
       "category": "Global news",
-      "headline": "US and Iran exchange strikes in the Gulf as regional tensions test a fragile ceasefire",
-      "summary": "BBC World is leading with renewed military escalation: the US says it struck Iranian drones and radar sites, while Tehran says it targeted US bases in Kuwait and Bahrain. The report frames the exchange as another stress test for an already fragile regional order.",
-      "pastoral_note": "Pray for restraint among leaders and protection for civilians. This is a moment to preach the church’s vocation as peacemakers without becoming naïve about evil or power.",
-      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo"
+      "headline": "Israel and Iran trade strikes as Trump urges an immediate stop",
+      "summary": "BBC live coverage reports Israel and Iran exchanged strikes, the most serious flare-up since the April ceasefire, while President Trump publicly urged both sides to stop. Markets also reacted to renewed Middle East risk, with oil pressure rising and global uncertainty deepening.",
+      "pastoral_note": "Pray for restraint, peacemakers, and civilians caught beneath the decisions of rulers. This is a good morning to remind people that Christian hope is not naivete; it is intercession in the face of powers and principalities.",
+      "url": "https://www.bbc.com/news/live/clyengg72pgt"
     },
     {
       "category": "Persecution",
-      "headline": "Young Christian woman in Somalia recovering after assault by relatives over her faith",
-      "summary": "Morning Star News reports that a 22-year-old Christian woman in Somalia’s Lower Juba Region suffered serious injuries after Muslim relatives allegedly beat her for putting her faith in Christ. The story underscores the acute vulnerability of converts in family and clan-based contexts.",
-      "pastoral_note": "Hold persecuted believers before the church by name and region when possible. Stories like this remind us that conversion is not an abstract idea for many believers; it is costly allegiance to Jesus.",
-      "url": "https://morningstarnews.org/2026/06/young-christian-woman-in-somalia-recovering-from-assault/"
+      "headline": "Open Doors warns persecution remains acute in Nigeria, Sudan, Mali and Syria",
+      "summary": "Open Doors' 2026 World Watch List overview says violence against Christians has surged across sub-Saharan Africa, with Nigeria still the global epicentre of deadly anti-Christian violence, Sudan and Mali scoring maximum violence ratings, and Syria returning to the top 10 after the collapse of state protection.",
+      "pastoral_note": "Hold the global body of Christ before the congregation: when one member suffers, all suffer. This can deepen prayer beyond sentiment into costly solidarity.",
+      "url": "https://www.opendoors.org.hk/en-US/news/latest/wwl2026-overview/"
     },
     {
       "category": "Cultural shifts",
-      "headline": "Religion in 2026 is marked by contradiction: decline, revival, politics, and algorithmic authority",
-      "summary": "USC’s Center for Religion and Civic Culture highlights competing trends in religion and society: institutional decline beside revival language, spiritual ‘vibes’ beside political power, and traditional authority challenged by algorithms and online influence.",
-      "pastoral_note": "People are not simply becoming secular; many are spiritually searching while distrusting institutions. The pastoral opportunity is to offer a community where authority is humble, embodied, and anchored in Scripture.",
+      "headline": "Religion-watchers see contradiction: decline narratives beside fresh spiritual curiosity",
+      "summary": "USC's Center for Religion and Civic Culture frames 2026 religion trends around tensions such as decline versus revival, institutional versus algorithmic authority, and hope versus fear. The report cautions that simple narratives miss the mixed reality: distrust of institutions persists, but spiritual hunger and supernatural curiosity have not disappeared.",
+      "pastoral_note": "This is fertile ground for gentle evangelism. People may distrust institutions yet still ache for transcendence; pastors can name that ache without exploiting it.",
       "url": "https://dornsife.usc.edu/crcc/6-to-7-trends-to-watch-in-religion-and-society-in-2026/"
     },
     {
       "category": "Faith & Ethics",
-      "headline": "Lamar Hardwick, ‘The Autism Pastor,’ remembered for pushing churches toward disability inclusion",
-      "summary": "Christianity Today reports on the death of Rev. Lamar Hardwick, a pastor, author, and disability advocate known for helping churches welcome autistic and disabled people with practical hospitality and theological depth.",
-      "pastoral_note": "This is a tender reminder that inclusion is not a branding issue but an image-of-God issue. Churches preach grace most clearly when their spaces, rhythms, and touchpoints make room for bodies and minds that differ.",
-      "url": "https://www.christianitytoday.com/2026/06/died-lamar-hardwick-the-autism-pastor-georgia/"
+      "headline": "Tech companies seek faith leaders' guidance on AI ethics",
+      "summary": "AP reports that representatives from companies including Anthropic and OpenAI met with diverse faith leaders at a Faith-AI Covenant roundtable in New York. Organizers hope to develop moral norms for rapidly advancing AI, though participants acknowledged that religious traditions differ in priorities and ethical frameworks.",
+      "pastoral_note": "This is a cultural opening: even builders of powerful tools are asking moral questions they cannot answer with code alone. The church should speak with humility, clarity, and a robust doctrine of human dignity.",
+      "url": "https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea"
     },
     {
       "category": "Leadership (HBR)",
-      "headline": "HBR: Leaders must learn to guide ‘human-AI organizations’",
-      "summary": "Harvard Business Review’s leadership page features ‘Leading the Human-AI Organization,’ focused on the skills leaders need as AI becomes embedded in teams, workflows, and decision-making. The theme is less about tools and more about formation, judgment, and change leadership.",
-      "pastoral_note": "Church leaders face the same discipleship question: what kind of humans are we becoming as our tools become more powerful? Wisdom, clarity, and character matter more—not less—in an AI-shaped workplace.",
-      "url": "https://hbr.org/2026/05/leading-the-human-ai-organization"
+      "headline": "HBR spotlights leading the human-AI organization",
+      "summary": "Harvard Business Review's leadership page highlights 'Leading the Human-AI Organization,' a May 28 piece featuring CHRO perspectives on the skills leaders need to build at scale as organizations adapt to rapid technological change. Nearby HBR themes include treating AI like a teammate and harnessing stress well.",
+      "pastoral_note": "For church leadership, the transferable question is not merely 'Should we use AI?' but 'What human capacities must we strengthen while tools accelerate?' Discernment, trust, formation, and care cannot be automated.",
+      "url": "https://hbr.org/topic/subject/leadership"
     },
     {
       "category": "Real Estate (Fraser Valley/Vancouver)",
-      "headline": "Metro Vancouver May housing market stays calm as apartment sales lag",
-      "summary": "Greater Vancouver REALTORS reports 2,150 residential sales in May 2026, down 3.5% from May 2025 and 26.6% below the 10-year seasonal average. Inventory remains elevated, the composite benchmark price is $1,100,700, and GVR describes price trends as mostly flat month-over-month.",
-      "pastoral_note": "Housing remains one of the most felt discipleship pressures in the Lower Mainland. Keep listening for the anxiety beneath financial decisions: young families, renters, newcomers, and downsizers all carry this differently.",
-      "url": "https://www.gvrealtors.ca/market-watch/monthly-market-report/may-2026.html"
+      "headline": "Fraser Valley remains in buyers' territory with more choice and softer prices",
+      "summary": "The Fraser Valley Real Estate Board's May 2026 report says sales inched upward while active listings climbed above 10,000, keeping conditions favourable for buyers. FVREB describes the market as marked by more choice, softer prices, steady buyer activity, and increased negotiating power.",
+      "pastoral_note": "Housing remains a discipleship issue in the Lower Mainland: anxiety, mobility, generosity, and neighbour-love all show up here. Pray for wisdom for families making decisions under pressure.",
+      "url": "https://www.fvreb.bc.ca/"
     },
     {
       "category": "Encouragement",
-      "headline": "Church-based entrepreneurship program helps neighbours move beyond relief toward opportunity",
-      "summary": "Christianity Today profiles Kingdom Founders, an expansion of Nashville’s Corner to Corner program that equips churches to mentor historically underestimated entrepreneurs through practical business training and relational support.",
-      "pastoral_note": "This is a hopeful model for mercy that does more than relieve crisis. It sees people not as projects but as image-bearers with gifts, agency, and vocation.",
-      "url": "https://www.christianitytoday.com/2026/05/churches-plant-business-owners-kingdom-founders/"
+      "headline": "Missing Everest Sherpa guide found alive after a week",
+      "summary": "Global News reports that a Sherpa guide who had been missing on Mount Everest and presumed dead by family was found alive, crawling back toward base camp. The story sits amid a grim news cycle as a reminder of resilience, rescue, and the fragile gift of life.",
+      "pastoral_note": "This is a simple resurrection-shaped encouragement: sometimes the story is not over when everyone assumes it is. It can serve as a tender illustration of hope returning slowly, even crawling.",
+      "url": "https://globalnews.ca/news/11890463/mount-everest-rescue-sherpa-found-alive-base-camp/"
     },
     {
       "category": "Theology in the Wild (evangelistic edge)",
-      "headline": "Tech companies seek faith leaders’ help on AI ethics",
-      "summary": "AP reports that technology companies, including Anthropic and OpenAI, are increasingly inviting faith leaders into conversations about moral norms for artificial intelligence, including a Faith-AI Covenant roundtable in New York.",
-      "pastoral_note": "The evangelistic edge is clear: even highly secular spaces are rediscovering that technical power cannot answer moral questions by itself. This opens a natural bridge to speak of wisdom, conscience, and the God who made humanity more than machinery.",
-      "url": "https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea"
+      "headline": "Debate over Gen Z faith revival reveals a deeper hunger for meaning",
+      "summary": "Recent public conversation continues to wrestle with whether young adults are experiencing a genuine Christian revival or whether the data is more mixed. Search results and commentary point to both hopeful claims about Gen Z and millennials returning to Jesus and pushback warning against overstating the trend.",
+      "pastoral_note": "The evangelistic edge is to resist triumphalism while staying awake to hunger. Ask better questions: What pain is driving young adults toward transcendence, and how can the church offer Jesus rather than a vibe?",
+      "url": "https://outreachmagazine.com/resources/84573-faith-rising-gen-z-and-millennials-lead-a-comeback-for-jesus.html"
     }
   ]
 }
