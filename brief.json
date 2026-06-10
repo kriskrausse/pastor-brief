@@ -1,62 +1,62 @@
 {
-    "date": "2026-06-09",
-    "title": "Pastor's Morning Brief",
-    "stories": [
-        {
-            "category": "Global news",
-            "headline": "Israel-Iran de-escalation remains a lead global concern",
-            "summary": "Live world-news coverage this morning led with Benjamin Netanyahu crediting Donald Trump for helping de-escalate Israel-Iran tensions, keeping Middle East stability at the center of the global news cycle.",
-            "pastoral_note": "Pray for peacemakers and for believers in the region to embody the reconciling presence of Christ when nations are tempted toward retaliation.",
-            "url": "https://www.livemint.com/news/world/total-world-latest-news-on-june-9-2026-live-updates-11780946022526.html"
-        },
-        {
-            "category": "Persecution",
-            "headline": "Church attack in India injures at least 25 worshippers",
-            "summary": "International Christian Concern reports that a Hindu nationalist mob attacked a worship service in Chhattisgarh, India, injuring at least 25 Christians, including the pastor's pregnant wife, amid rising concern over anti-conversion pressures.",
-            "pastoral_note": "Name persecuted believers in prayer, not as distant victims but as family; their courage helps the wider church remember that worship is costly and precious.",
-            "url": "https://persecution.org/2026/06/08/hindu-nationalists-attack-church-injure-25-worshippers/"
-        },
-        {
-            "category": "Cultural shifts",
-            "headline": "Canadian leaders see Gen Z stirring fresh religious curiosity",
-            "summary": "CTV's feature on a return to faith notes church leaders reporting renewed attendance after decades of decline, with Gen Z often named as a key driver of the shift.",
-            "pastoral_note": "The moment calls for less panic about secularization and more readiness to receive spiritually hungry young adults with depth, hospitality, and a clear gospel.",
-            "url": "https://www.ctvnews.ca/canada/article/return-to-faith-church-attendance-increasing-for-first-time-in-decades/"
-        },
-        {
-            "category": "Faith & Ethics",
-            "headline": "Tech firms turn to faith leaders for AI ethics guidance",
-            "summary": "AP reports that representatives from companies including Anthropic and OpenAI met with religious leaders at a Faith-AI Covenant roundtable to discuss moral norms for artificial intelligence.",
-            "pastoral_note": "This is a rare public admission that technical power needs moral wisdom; churches should speak about human dignity, formation, and discernment with confidence and humility.",
-            "url": "https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea"
-        },
-        {
-            "category": "Leadership (HBR)",
-            "headline": "Purpose can backfire when systems block meaningful impact",
-            "summary": "Harvard Business Review warns that purpose-driven organizations create an implicit promise: employees expect to make a meaningful difference, but rules, metrics, and processes can make them withdraw when that promise is frustrated.",
-            "pastoral_note": "Churches should not merely talk about mission; leaders need to remove friction so volunteers and staff can actually touch the life-giving work they were called into.",
-            "url": "https://hbr.org/2026/06/when-purpose-backfires"
-        },
-        {
-            "category": "Real Estate (Fraser Valley/Vancouver)",
-            "headline": "Fraser Valley market favours buyers as inventory tops 10,000 listings",
-            "summary": "The Fraser Valley Real Estate Board's May 2026 report says inventory surpassed 10,000 listings, sales rose modestly from April, and benchmark prices eased slightly after two months of gains.",
-            "pastoral_note": "Housing pressure remains a discipleship issue: people are making major decisions under uncertainty, and the church can offer both practical care and a steadier imagination of home.",
-            "url": "https://www.fvreb.bc.ca/statistics/monthly-market-report/"
-        },
-        {
-            "category": "Encouragement",
-            "headline": "A 39-year Bible translation bears fruit for 3,800 Notsi speakers",
-            "summary": "Christianity Today reports that the Notsi people of Papua New Guinea celebrated a New Testament in their mother tongue after a translation effort spanning nearly four decades.",
-            "pastoral_note": "This is a beautiful reminder that God is not a foreign God; the Word comes near, speaks the language of a people, and dignifies small places with kingdom attention.",
-            "url": "https://www.christianitytoday.com/2026/06/papua-new-guinea-notsi-bible-translation/"
-        },
-        {
-            "category": "Theology in the Wild (evangelistic edge)",
-            "headline": "Russell Moore says apologetics needs confidence more than combat",
-            "summary": "In Christianity Today, Russell Moore argues that many people come to faith not through public debate victories but through ordinary grace, faithful churches, Scripture, and embodied witness.",
-            "pastoral_note": "For evangelism, the edge may be less about winning arguments and more about carrying the Word with quiet confidence, relational credibility, and the surprise of grace.",
-            "url": "https://www.christianitytoday.com/2026/05/why-i-dont-debate-atheists/"
-        }
-    ]
+  "date": "2026-06-10",
+  "title": "Pastor's Morning Brief",
+  "stories": [
+    {
+      "category": "Global news",
+      "headline": "Hormuz crisis is straining global aid networks",
+      "summary": "UN News reports that uncertainty around the Strait of Hormuz, even with a fragile U.S.-Iran ceasefire, is driving up fuel and transport costs and disrupting humanitarian supply chains. WFP warned that millions more people in Somalia, Afghanistan, and Sri Lanka are already facing acute hunger as energy prices ripple into food prices and aid delivery costs.",
+      "pastoral_note": "This is a moment to pray beyond the headlines: conflict at sea becomes hunger at the table. It gives language for intercession that connects peacemaking, provision, and the hidden suffering of the poor.",
+      "url": "https://news.un.org/en/story/2026/06/1167653"
+    },
+    {
+      "category": "Persecution",
+      "headline": "Open Doors: more than 388 million Christians face high persecution",
+      "summary": "Open Doors' 2026 World Watch List says more than 388 million Christians suffer high levels of persecution and discrimination, with over 315 million in the top 50 countries alone facing very high or extreme pressure. The list highlights North Korea, Somalia, Yemen, Sudan, Eritrea, Syria, Nigeria, Pakistan, Libya, and Iran among the top ten.",
+      "pastoral_note": "This keeps the persecuted church before Southgate not as a statistic but as family. A simple prayer point: courage for believers under pressure and repentance for our own tendency to treat faith as private convenience.",
+      "url": "https://www.opendoorsus.org/en-US/persecution/countries/"
+    },
+    {
+      "category": "Cultural shifts",
+      "headline": "Canada and the U.S. show a widening public-faith gap",
+      "summary": "Angus Reid Institute and Cardus data show Americans are roughly twice as likely as Canadians to be 'Religiously Committed' (37% vs. 18%) and more likely to be public about religion. Yet Canada’s youngest adults show an interesting countercurrent: 24% of 18- to 24-year-olds fall into the religiously committed category, the highest Canadian age cohort in the study.",
+      "pastoral_note": "The mission field is not simply 'secular Canada'; it is spiritually uneven and generationally surprising. This encourages patient public witness that is humble, clear, and ready for younger seekers who may be more open than assumed.",
+      "url": "https://angusreid.org/canada-us-religion-cardus-spectrum-of-spirituality-comparison/"
+    },
+    {
+      "category": "Faith & Ethics",
+      "headline": "Tech leaders are asking faith communities to help shape AI ethics",
+      "summary": "AP reports that representatives from technology companies, including Anthropic and OpenAI, met with religious leaders at the first 'Faith-AI Covenant' roundtable in New York. Organizers hope the dialogue can produce moral norms and principles as AI moves faster than regulation.",
+      "pastoral_note": "The church should not outsource moral imagination to markets or machines. This is an opening to teach that wisdom is more than technical capability: it is the fear of the Lord, love of neighbour, and responsibility for the vulnerable.",
+      "url": "https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea"
+    },
+    {
+      "category": "Leadership (HBR)",
+      "headline": "HBR: leading the human-AI organization requires trust, empathy, and judgment",
+      "summary": "Harvard Business Review’s May 28 leadership piece gathers CHRO insight from its 2026 Leadership Summit on how organizations can develop leaders for the AI age. The core emphasis is not only technological adoption but forming leaders who can guide transformation with trust, empathy, judgment, and human-centered responsibility.",
+      "pastoral_note": "For church leadership, the transferable lesson is clear: tools can accelerate work, but shepherding still depends on character. AI may change workflows, but it cannot replace discernment, presence, and trust built over time.",
+      "url": "https://hbr.org/2026/05/leading-the-human-ai-organization"
+    },
+    {
+      "category": "Real Estate (Fraser Valley/Vancouver)",
+      "headline": "Fraser Valley remains buyer-friendly as inventory tops 10,000 listings",
+      "summary": "The Fraser Valley Real Estate Board’s May 2026 report says the market continues to favour buyers, with inventory surpassing 10,000 listings and sales only modestly up from April. Economic uncertainty is keeping many households cautious, while benchmark prices eased slightly after two months of gains.",
+      "pastoral_note": "Housing pressure is still discipleship pressure: anxiety, delayed decisions, family strain, and stewardship questions. Pastoral care should make room for both renters and owners navigating uncertainty without shame or status comparison.",
+      "url": "https://www.fvreb.bc.ca/statistics/monthly-market-report/"
+    },
+    {
+      "category": "Encouragement",
+      "headline": "Two congregations reunite decades after a painful split",
+      "summary": "The Christian Chronicle reports that Coventry Hills Church of Christ and Chesmont Church of Christ in Pennsylvania have merged into Cornerstone Church of Christ after a split dating back to the early 1990s. Leaders described the process as God-led, with members choosing humility, shared mission, and unity over old wounds.",
+      "pastoral_note": "This is a gentle reminder that church wounds are not beyond resurrection. Unity is not nostalgia; it is repentance, humility, and a willingness to let Christ be larger than the history that divided us.",
+      "url": "https://christianchronicle.org/together-again-decades-after-split/"
+    },
+    {
+      "category": "Theology in the Wild (evangelistic edge)",
+      "headline": "Iranian refugees in England turn exile into witness",
+      "summary": "The Christian Chronicle profiles Iranian Christians in Birmingham, England, whose stories move through revolution, exile, underground faith, and new Christian community. One refugee asks whether, without Iran’s upheaval, he would have come to know Jesus at all—a haunting question about suffering, providence, and mission.",
+      "pastoral_note": "This carries real evangelistic edge: God is meeting people in migration, grief, and dislocation. It can help a congregation see refugees and newcomers not as issues to manage but as neighbours among whom the Spirit is already at work.",
+      "url": "https://christianchronicle.org/iranians-americans-worship-in-a-united-kingdom/"
+    }
+  ]
 }
