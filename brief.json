@@ -1,62 +1,62 @@
 {
-    "date": "2026-06-14",
-    "title": "Pastor's Morning Brief",
-    "stories": [
-        {
-            "category": "Global news",
-            "headline": "Iran war talks advance as Washington pauses new strikes",
-            "summary": "AP reports that President Trump called off fresh strike threats after citing progress toward a settlement with Iran, following renewed U.S. strikes and Iranian fire toward countries hosting U.S. troops. The Strait of Hormuz, oil flows, Israel-Lebanon fallout, and civilian fear remain central pressure points.",
-            "pastoral_note": "Pray for restraint among rulers and mercy for ordinary families living under missile paths. This is a moment to teach intercession without panic: Christ is Lord over nations, not just private lives.",
-            "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d"
-        },
-        {
-            "category": "Persecution",
-            "headline": "Open Doors: more than 388 million Christians face high persecution",
-            "summary": "Open Doors' World Watch List 2026 says more than 388 million Christians experience high levels of persecution and discrimination, with 315 million-plus in the top 50 countries alone. North Korea, Somalia, Yemen, Sudan, Eritrea, Syria, Nigeria, Pakistan, Libya, and Iran rank as the top 10 pressure contexts.",
-            "pastoral_note": "Keep the persecuted church visible in prayer. Their witness reminds comfortable churches that allegiance to Jesus is costly, embodied, and global.",
-            "url": "https://www.opendoors.org/en-US/persecution/countries/"
-        },
-        {
-            "category": "Cultural shifts",
-            "headline": "World Cup opens with spectacle, joy, and protest",
-            "summary": "BBC reports the 2026 World Cup opened in Mexico City with global performers, mass celebration, Mexico's 2-0 win over South Africa, and clashes outside the stadium as protesters used the world's attention to highlight causes including missing persons and social unrest.",
-            "pastoral_note": "Major cultural moments often reveal both longing and fracture: celebration, belonging, nationalism, grief, and protest in one frame. The church can listen beneath the noise for the hunger to be seen, gathered, and made whole.",
-            "url": "https://www.bbc.com/news/articles/c2ly928xz8go"
-        },
-        {
-            "category": "Faith & Ethics",
-            "headline": "Christians embrace AI while warning against outsourcing formation",
-            "summary": "The Christian Chronicle reports widespread Christian use of AI for theological research, Scripture translation, sermon preparation, graphics, and discipleship tools. Leaders interviewed welcomed technology as a mission tool but warned against dependence, especially in preaching and spiritual growth.",
-            "pastoral_note": "A helpful ethic: use tools to serve the Word, never to replace prayer, study, character, or pastoral presence. Mediums change; formation still requires faithfulness.",
-            "url": "https://christianchronicle.org/artificial-intelligence-authentic-faith/"
-        },
-        {
-            "category": "Leadership (HBR)",
-            "headline": "HBR: the strongest teams are the fastest learners",
-            "summary": "In HBR's May-June issue, Ron Friedman argues that high-performing 'superteams' are marked less by perfect plans than by continuous improvement: experimentation, humility, early problem-surfacing, close attention to the work, feedback that teaches, and investment in people before it pays off.",
-            "pastoral_note": "For church teams, this reframes excellence as discipleship: curiosity, confession, feedback, and shared meaning. Healthy ministry cultures do not merely avoid mistakes; they learn in grace.",
-            "url": "https://hbr.org/2026/05/how-to-build-a-superteam-that-keeps-getting-better"
-        },
-        {
-            "category": "Real Estate (Fraser Valley/Vancouver)",
-            "headline": "Fraser Valley housing continues to favour buyers",
-            "summary": "The Fraser Valley Real Estate Board's May 2026 report says inventory surpassed 10,000 listings, creating one of the most choice-rich markets in years. Sales rose modestly from April, but economic uncertainty continues to temper activity, while benchmark prices eased slightly.",
-            "pastoral_note": "Housing pressure remains a discipleship issue in the Lower Mainland: anxiety, delayed decisions, family strain, and stewardship questions. Pastors should expect money and home conversations to carry spiritual weight.",
-            "url": "https://www.fvreb.bc.ca/statistics/monthly-market-report/"
-        },
-        {
-            "category": "Encouragement",
-            "headline": "Church growth reported in Haiti, Kenya, Nicaragua, and Ukraine",
-            "summary": "The Christian Chronicle's global roundup reports 149 new believers and three new Churches of Christ near Port-au-Prince despite Haiti's insecurity, 41 baptisms in western Kenya, nearly 1,000 women gathered for fellowship in Nicaragua, and women in Kyiv meeting for Scripture and mutual support.",
-            "pastoral_note": "The kingdom often grows in places where circumstances look least ideal. This is good fuel for Sunday prayer: not naive optimism, but resurrection realism.",
-            "url": "https://christianchronicle.org/around-the-world-church-growth-in-haiti-womens-fellowship-in-nicaragua-and-more-quick-takes/"
-        },
-        {
-            "category": "Theology in the Wild (evangelistic edge)",
-            "headline": "Iranian and American Christians worship together amid geopolitical hostility",
-            "summary": "The Christian Chronicle profiles Iranian believers and American missionaries worshiping together in Birmingham, England, while war and strained communications with families in Iran hang over daily life. Converts reflect on suffering, exile, and the unexpected ways many Iranians have encountered Jesus.",
-            "pastoral_note": "This is a vivid evangelistic edge: the gospel creates a kingdom family where national enemies become brothers and sisters. It gives language for providence without minimizing pain.",
-            "url": "https://christianchronicle.org/iranians-americans-worship-in-a-united-kingdom/"
-        }
-    ]
+  "date": "2026-06-15",
+  "title": "Pastor's Morning Brief",
+  "stories": [
+    {
+      "category": "Global news",
+      "headline": "US and Iran announce framework peace deal as G7 meets",
+      "summary": "Reports this morning say the US and Iran have reached a framework peace agreement, with a formal signing expected later this week. Major questions remain around the Strait of Hormuz, Lebanon, Israel's position, and Iran's nuclear program, so the moment is hopeful but fragile.",
+      "pastoral_note": "Pray for peacemakers to have courage, for leaders to value human life over strategic pride, and for congregants anxious about war to remember that Christ is Lord over nations as well as neighborhoods.",
+      "url": "https://www.theguardian.com/world/2026/jun/15/us-iran-peace-deal-terms-details-conditions-explained-what-do-we-know-hormuz-lebanon-israel-nuclear"
+    },
+    {
+      "category": "Persecution",
+      "headline": "Open Doors: more than 388 million Christians face high persecution or discrimination",
+      "summary": "Open Doors' 2026 World Watch List reports that more than 388 million Christians suffer high levels of persecution and discrimination, with 315 million in the top 50 countries alone facing very high or extreme persecution. The report highlights 4,849 Christians murdered, 4,712 detained, and 3,632 churches or Christian properties attacked in the reporting period.",
+      "pastoral_note": "This is a sober call to intercession, not despair. Invite the church to pray by name for believers in North Korea, Somalia, Yemen, Sudan, Eritrea, Syria, Nigeria, Pakistan, Libya, and Iran, and to see the global body of Christ as family, not a statistic.",
+      "url": "https://www.opendoors.org/en-US/persecution/countries/"
+    },
+    {
+      "category": "Cultural shifts",
+      "headline": "UK plans social media ban for under-16s",
+      "summary": "Prime Minister Keir Starmer announced plans to ban under-16s from major social media platforms, arguing that the platforms are contributing to bullying, unhappiness, and mental-health harms among children. The government hopes to legislate by the end of the year and bring the ban into force next spring.",
+      "pastoral_note": "This gives pastors and parents a timely bridge into formation: laws can restrain harm, but discipleship must teach desire, attention, friendship, and wisdom. The church can offer embodied community where children are known, not merely protected from screens.",
+      "url": "https://www.theguardian.com/media/2026/jun/15/social-media-ban-uk-under-16-starmer"
+    },
+    {
+      "category": "Faith & Ethics",
+      "headline": "Tech companies seek faith leaders' guidance on ethical AI",
+      "summary": "AP reports that leaders from multiple religious traditions met with representatives from AI companies, including Anthropic and OpenAI, for a Faith-AI Covenant roundtable in New York. The initiative aims to develop shared moral principles for AI, while acknowledging that faith traditions differ in priorities and ethical frameworks.",
+      "pastoral_note": "The opportunity is real, but so is the danger of outsourcing wisdom to systems that cannot bear the image of God. Churches should speak into AI ethics with confidence: human dignity, truth, accountability, and spiritual formation are not optional features.",
+      "url": "https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea"
+    },
+    {
+      "category": "Leadership (HBR)",
+      "headline": "HBR: the best teams keep learning even when things are going well",
+      "summary": "Harvard Business Review's May-June 2026 issue features Ron Friedman's article on building 'superteams' that keep improving. The core leadership insight: high-performing teams are not merely the most talented; they experiment, surface problems early, practice intellectual humility, give feedback that supports learning, and tie work to shared meaning.",
+      "pastoral_note": "For church leadership, this is a grace-shaped reminder that health is not perfection but teachability. A ministry team that can name problems early without shame will usually become more resilient, more joyful, and more fruitful.",
+      "url": "https://hbr.org/2026/05/how-to-build-a-superteam-that-keeps-getting-better"
+    },
+    {
+      "category": "Real Estate (Fraser Valley/Vancouver)",
+      "headline": "Lower Mainland housing market enters a calm, buyer-favouring summer",
+      "summary": "Storeys reports subdued May activity across Greater Vancouver and the Fraser Valley. Greater Vancouver recorded 2,228 sales and Fraser Valley 1,124, down year over year, while benchmark prices also fell. Fraser Valley detached homes were benchmarked at $1,366,500, townhouses at $769,500, and condos at $483,800, with inventory above 10,000 active listings.",
+      "pastoral_note": "Housing pressure remains a discipleship issue in the Fraser Valley: affordability shapes family stress, generosity, hospitality, and who can remain rooted in community. Pray for wisdom for buyers and sellers, and for the church to practice practical care for renters, young families, and the financially stretched.",
+      "url": "https://storeys.com/vancouver-housing-update-june-2026/"
+    },
+    {
+      "category": "Encouragement",
+      "headline": "Global Christianity continues to grow faster than the world's population",
+      "summary": "LifeWay Research, summarizing Gordon-Conwell's 2026 Status of Global Christianity report, notes that more than 2.6 billion people worldwide identify as Christian. Christianity is growing at an estimated 0.95% annually, slightly faster than global population growth, and is projected to reach 3 billion before 2050.",
+      "pastoral_note": "This is good medicine for local discouragement. The kingdom is often quieter than the headlines, but Christ is still building his church across languages, continents, and cultures.",
+      "url": "https://research.lifeway.com/2026/04/14/9-encouraging-trends-for-global-christianity-in-2026/"
+    },
+    {
+      "category": "Theology in the Wild (evangelistic edge)",
+      "headline": "Sacred Heart film finds wide audience hungry for enduring hope",
+      "summary": "Aleteia reports that the docudrama 'Sacred Heart: His Reign Has No End' became an unexpected hit in France and Europe and is now receiving a June US release. The filmmakers describe stories of conversions, confessions, and viewers drawn by a message of love in a weary world.",
+      "pastoral_note": "Even for Protestants who would frame the devotion differently, the evangelistic signal is worth noticing: many people are not bored by Jesus; they are starved for durable love. The bridge may be beauty, silence, testimony, and the simple claim that the heart of God is turned toward sinners in Christ.",
+      "url": "https://aleteia.org/2026/05/21/wildly-popular-sacred-heart-film-is-a-revival-of-hope/"
+    }
+  ]
 }
