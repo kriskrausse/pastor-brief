@@ -1,62 +1,62 @@
 {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "title": "Pastor's Morning Brief",
     "stories": [
         {
             "category": "Global news",
-            "headline": "BBC reports new escalation as Iran and the U.S. trade strikes",
-            "summary": "BBC's world page is leading with reports of explosions across Iran after U.S. strikes, with neighbouring Gulf states also reporting attacks. The story signals a dangerous widening of regional conflict and will likely shape global markets, diplomacy, and anxiety today.",
-            "pastoral_note": "Pray for peacemakers, civilians, soldiers, and leaders under pressure. This is a moment to pastor people away from fear-scrolling and toward intercession: 'Lord, have mercy; make us instruments of peace.'",
-            "url": "https://www.bbc.com/news/articles/c2lq1ed28jxo"
+            "headline": "Middle East escalation intensifies around Iran and the Gulf",
+            "summary": "BBC and Al Jazeera led with fresh US strikes on Iran, Iranian retaliation across Gulf states, and warnings that the Strait of Hormuz crisis threatens global energy security. The news cycle is being shaped by regional escalation, vulnerable civilians, and the economic fear that comes when oil routes and shipping lanes feel fragile.",
+            "pastoral_note": "Pray for restraint, for civilians caught between powers, and for peacemakers with courage. This is a moment to remind the church that the nations rage, but Christ is not anxious on His throne.",
+            "url": "https://www.aljazeera.com/news/2026/7/17/gulf-states-come-under-iranian-fire-as-us-strikes-intensify"
         },
         {
             "category": "Persecution",
-            "headline": "Open Doors: more than 388 million Christians face high levels of persecution",
-            "summary": "Open Doors' 2026 World Watch List reports that more than 388 million Christians suffer high levels of persecution and discrimination, with 315 million-plus in the top 50 countries facing very high or extreme persecution. The list names North Korea, Somalia, Yemen, Sudan, Eritrea, Syria, Nigeria, Pakistan, Libya, and Iran among the top ten.",
-            "pastoral_note": "Bring the persecuted church into Sunday prayer by name. Their witness reminds comfortable churches that allegiance to Jesus is costly, but never abandoned by grace.",
-            "url": "https://www.opendoorsus.org/en-US/persecution/countries/"
+            "headline": "Families of detained Chinese house-church leaders fear being forgotten",
+            "summary": "Christianity Today reports that after Zion Church pastor Ezra Jin was released and flown to Los Angeles, eight other Zion Church pastors and staff remain imprisoned in China. Their spouses are pressing publicly for their freedom, warning that celebration over one release should not eclipse those still in cramped cells and facing serious charges.",
+            "pastoral_note": "This is a clean prayer prompt: thank God for one prison door opening, and keep praying for the doors still shut. Hebrews 13:3 remains painfully literal: remember those in prison as though with them.",
+            "url": "https://www.christianitytoday.com/2026/07/china-zion-church-pastors-prison-persecution/"
         },
         {
             "category": "Cultural shifts",
-            "headline": "Pew: teens are turning to AI for school, fun, news, and emotional support",
-            "summary": "Pew Research Center reports that 57% of U.S. teens have used chatbots to search for information, 54% for schoolwork, 47% for fun or entertainment, about one-in-five for news, and 12% for emotional support or advice.",
-            "pastoral_note": "AI is becoming a quiet companion for young people. Churches should not only warn about technology but offer embodied discipleship, trusted adults, wise questions, and safe places to be known.",
-            "url": "https://www.pewresearch.org/internet/2026/02/24/how-teens-use-and-view-ai/"
+            "headline": "Pew maps how people now engage news, politics, religion, and civic life",
+            "summary": "A new Pew-Knight report argues that public engagement is not one-dimensional. Americans cluster into distinct patterns across voting, volunteering, news habits, community life, and religious participation, showing how fragmented modern belonging has become after years of technological and social disruption.",
+            "pastoral_note": "For pastors, the takeaway is not merely declining engagement but diversified engagement. People are still seeking belonging and meaning, but they enter through different doors; wise shepherding will notice those patterns rather than preach to an imagined average person.",
+            "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/"
         },
         {
             "category": "Faith & Ethics",
-            "headline": "Pew finds broad but nuanced support for religious expression in public schools",
-            "summary": "A Pew survey says 78% of U.S. adults favor student-led voluntary prayer groups in public schools, 57% favor coaches leading teams in prayer, 50% favor Ten Commandments displays, and 46% favor teachers leading prayer. Pew notes that relatively few support making student participation mandatory.",
-            "pastoral_note": "This is a chance to teach religious freedom with humility: witness is strongest when it is invitational, never coercive. The gospel needs boldness, but not compulsion.",
-            "url": "https://www.pewresearch.org/short-reads/2026/06/22/many-americans-favor-prayer-in-public-schools-but-few-think-it-should-be-mandatory/"
+            "headline": "Religion-related social hostilities rose in more countries",
+            "summary": "Pew's annual religious restrictions study found that 55 countries had high or very high social hostilities involving religion in 2023, up from 45 the year before. The report points to increased harassment of religious minorities and the global reverberations of the Israel-Gaza war among the contributing factors.",
+            "pastoral_note": "This helps frame religious freedom as a discipleship issue, not a culture-war slogan. The church should be trained to advocate for conscience, protect minorities, and refuse the easy sin of contempt.",
+            "url": "https://www.pewresearch.org/religion/2026/06/15/more-countries-had-elevated-levels-of-social-hostilities-involving-religion-in-2023/"
         },
         {
             "category": "Leadership (HBR)",
-            "headline": "HBR: diverse teams need leaders who can steward friction well",
-            "summary": "Harvard Business Review's July 15 piece '4 Hidden Traps of Team Dynamics' argues that difference creates value only when leaders can navigate the friction that comes with different perspectives, using awareness, humility, and intention.",
-            "pastoral_note": "For church teams, unity is not sameness. The pastoral task is to turn difference into discernment rather than division, especially in boards, staff teams, and volunteer cultures.",
-            "url": "https://hbr.org/2026/07/4-hidden-traps-of-team-dynamics"
+            "headline": "Executives remain bullish on AI but are still chasing measurable value",
+            "summary": "Harvard Business Review summarizes 2026 survey data showing that business leaders continue to prioritize and increase spending on AI, even amid concerns about an AI bubble and uneven value creation. The leadership challenge is no longer curiosity about AI, but disciplined adoption that produces trustworthy fruit.",
+            "pastoral_note": "Church leaders face a similar temptation: adopting powerful tools without first clarifying formation, trust, and mission. The pastoral question is not simply 'Can this make us faster?' but 'Will this make us more faithful?'",
+            "url": "https://hbr.org/2026/01/hb-how-executives-are-thinking-about-ai-heading-into-2026"
         },
         {
             "category": "Real Estate (Fraser Valley/Vancouver)",
-            "headline": "Fraser Valley remains a buyer-favouring market as prices sit well below 2022 peak",
-            "summary": "The Fraser Valley Real Estate Board's June 2026 report says active inventory remained above 10,000 listings, benchmark prices declined again, and prices are now 26% below their 2022 peak. Buyers have more choice, but many remain cautious despite improved affordability.",
-            "pastoral_note": "Housing stress is still discipleship territory: young families, renters, seniors, and first-time buyers need practical care, sober hope, and a church family that notices financial pressure without shame.",
-            "url": "https://www.fvreb.bc.ca/statistics/monthly-market-report/"
+            "headline": "Fraser Valley housing remains buyer-friendly but cautious",
+            "summary": "The Fraser Valley Real Estate Board's June 2026 market report says lower benchmark prices, abundant inventory, and active listings above 10,000 gave buyers more choice and made homes more affordable than they have been in years. Yet sales stayed slow as buyers remained cautious despite favourable conditions.",
+            "pastoral_note": "Housing pressure is discipleship pressure: it shapes family stress, generosity, vocation, and whether people can imagine putting down roots. This is a good week to pray for renters, first-time buyers, and those carrying quiet mortgage anxiety.",
+            "url": "https://www.fvreb.bc.ca/"
         },
         {
             "category": "Encouragement",
-            "headline": "Scientists identify a new orange-lipped monkey species in DR Congo",
-            "summary": "BBC reports that researchers have identified a new monkey species with orange lips in a DR Congo forest, a reminder that creation still holds hidden beauty and that careful, patient attention can reveal wonders long overlooked.",
-            "pastoral_note": "A small creation-wonder story can gently lift the room: the world is wounded, yes, but still charged with God's generosity. Awe is a form of resistance to despair.",
-            "url": "https://www.bbc.com/news/articles/c15y5wgj4x8o"
+            "headline": "Youth-led revival brings hope to an Indian region scarred by drugs",
+            "summary": "Christianity Today reports on a movement in Ziro, Arunachal Pradesh, where youth gatherings, prayer groups, and local churches are seeing young people turn from addiction and despair toward worship, community, and service. One testimony describes deliverance from drug use after prayer and a renewed life in the church.",
+            "pastoral_note": "This is the kind of story that keeps pastoral hope alive: the Spirit still meets the young, the addicted, and the despairing. Pray for Southgate's young people with fresh faith today.",
+            "url": "https://www.christianitytoday.com/2026/07/revival-christian-india-drug-trafficking-arunachal-pradesh/"
         },
         {
             "category": "Theology in the Wild (evangelistic edge)",
-            "headline": "Researchers warn AI often omits faith when answering life's biggest questions",
-            "summary": "USA Today reports on a multifaith research group finding that AI models often omit religion when responding to ethical or existential questions about grief, forgiveness, marriage, calm, happiness, and freedom\u2014even though many people expect faith perspectives in those spaces.",
-            "pastoral_note": "This is a beautiful evangelistic opening: people are still asking ultimate questions, even if they ask machines first. The church can offer what AI cannot\u2014embodied witness, prayer, Scripture, and the presence of Christ through his people.",
-            "url": "https://www.usatoday.com/story/news/nation/2026/07/02/ai-lack-religion-show-faith-bias/90747041007/"
+            "headline": "A secular longing for 'small stuff' sounds like a hunger for embodied gratitude",
+            "summary": "Christianity Today reviews Ian Bogost's The Small Stuff, noting his concern that digital convenience has dematerialized human life and his invitation to recover delight in tactile, ordinary things. The cultural signal is striking: even tech-saturated people are hungry for wonder, attention, and the physical world.",
+            "pastoral_note": "This is an easy evangelistic bridge. Christianity does not despise the ordinary; it teaches us to receive bread, water, bodies, work, and creation as gifts from God. Gratitude may be one of the most accessible apologetics in an exhausted digital age.",
+            "url": "https://www.christianitytoday.com/2026/07/common-grace-gadgets-doohickeys-ian-bogost-small-stuff-review/"
         }
     ]
 }
